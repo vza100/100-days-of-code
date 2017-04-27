@@ -6,3 +6,12 @@
 
 **Thoughts**: Excited to be as much prolific as possible. I would rate my programming knowledge somewhere below medium, so by doing this challange hopefully I will get better, more advanced and increase my capability on working with some of the popular programming frameworks.
 
+### Day 2: June 27, Thursday
+
+**Today's Progress**: For a couple of hours I have been learning Javascript on freeCodeCamp. Learned useful pop, push, shift and unshift functions also as how to properly use switch. Started my first tutorial video on Javascript30 and created an Drum Kit using JQuery. Also learned how to make commits to git from cloned repository to my repository.
+
+**Thoughts**: Javascript in freeCodeCamp was quite relaxing. After couple of hours I moved on to building Drum kit and it really was stressfull basically to set up environment to code. After an hour I made a Drum Kit and decided to commit it to my git. After a few hours of figuring out I managed to push it... It's almost 3 AM right now, but I am proud of what I did today. 
+
+**Link(s) to work**
+1. [Drum Kit](https://github.com/vza100/Javascript30-projects/tree/master/01%20-%20JavaScript%20Drum%20Kit)
+
