@@ -13,5 +13,15 @@
 **Thoughts**: Javascript in freeCodeCamp was quite relaxing. After couple of hours I moved on to building Drum kit and it really was stressfull basically to set up environment to code. After an hour I made a Drum Kit and decided to commit it to my git. After a few hours of figuring out I managed to push it... It's almost 3 AM right now, but I am proud of what I did today. 
 
 **Link(s) to work**
-1. [Drum Kit](https://github.com/vza100/Javascript30-projects/tree/master/01%20-%20JavaScript%20Drum%20Kit)
+1. [Drum Kit project](https://github.com/vza100/Javascript30-projects/tree/master/01%20-%20JavaScript%20Drum%20Kit)
+
+### Day 3: June 28, Friday
+
+**Today's Progress**: Almost finished Javascript section on freeCodeCAmp course. Basics feel quite easy, mostly beacuse it is similar to C++ which I have been learning in IT class at school. Also learned how to apply CSS to Class with JS depending on what time it is while watching JS30 course.
+
+**Thoughts**: Quite happy with the proggres as I spend most of my day learning new stuff. Feeling much more confident while working with objects in JS.
+
+**Link(s) to work**
+1. [JS Clock project](https://github.com/vza100/Javascript30-projects/tree/master/02%20-%20JS%20and%20CSS%20Clock)
+
 
