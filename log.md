@@ -37,3 +37,13 @@
 **Link(s) to work**
 1. [Playing with CSS variables](https://github.com/vza100/Javascript30-projects/tree/master/03%20-%20CSS%20Variables)
 
+
+### Day 5: June 30, Sunday
+
+**Today's Progress**: Started the day by finishing freeCodeCamp's Basic Algorithm Scripting. Moved on to JSON APis and AJAX. For the rest of the day I have been building Random quote generator. It was really challanging but with the help of the various forums I made a suitible for usage web application.
+
+**Thoughts**: Really exhausted after full day of coding, but seeing the result keeps me motivated to strive further.
+
+**Link(s) to work**
+1. [RANDOM QUOTE GENERATOR](https://github.com/vza100/Random-Quote-Generator/tree/master)
+
