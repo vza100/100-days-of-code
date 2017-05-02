@@ -57,3 +57,13 @@
 **Link(s) to work**
 1. [RANDOM QUOTE GENERATOR](https://github.com/vza100/Random-Quote-Generator/tree/master)
 
+
+### Day 7: May 2, Tuesday
+
+**Today's Progress**: Today I practiced medium Algorithm scripting in freeCodeCamp and by watching #4 Javascript30 tutorial. Also moved on #5 JS30 tutorial and practiced a bit of CSS with flex panels.
+
+**Thoughts**: Happy that now I am capable of completing more advanced Javascript data sort taskk. It really feels good when I watch advanced level tutorials and understand most of the code. Motivated to learn much more!
+
+**Link(s) to work**
+1. [Practice with flex panels](https://github.com/vza100/Javascript30-projects/tree/master/05%20-%20Flex%20Panel%20Gallery)
+
