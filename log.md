@@ -67,3 +67,9 @@
 **Link(s) to work**
 1. [Practice with flex panels](https://github.com/vza100/Javascript30-projects/tree/master/05%20-%20Flex%20Panel%20Gallery)
 
+
+### Day 8: May 3, Wednesday
+
+**Today's Progress**: Still working on weather app. Codepen does not want to receive my APi request... Also rewinding previous Javascript30 videos to learn JS scripting in depth. Watched a few "Javascript Understanding the weird parts" tutorials.
+
+**Thoughts**: Second day trying to figure out how to put APi in codepen... Hopefully tomorrow I will be finished with weather app. A little bit frustrated but still motivation hasn't gone anywhere!
