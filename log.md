@@ -84,3 +84,13 @@
 **Link(s) to work**
 1. [Local weather App](https://github.com/vza100/Weather-App)
 2. [Javascript30 by #6 tutorial](https://github.com/vza100/Javascript30-projects/tree/master/06%20-%20Type%20Ahead)
+
+
+### Day 10: May 5, Friday
+
+**Today's Progress**: Today I have been working on Wikipedia viewer app for freeCodeCamp project. Everything seems working alright while I am working on localhost but when I try uploading code to codepen it blocks my ajax requests. It really annoys me beacuse my app is fully functional but for reason which is out of my control I can't do anything. Hopefully tomorrow I will find an wikipedia APi which would work. Also today I have been watching "Javascript understanding the weird parts" tutorial which really helps me to understand JS in deapth.
+
+**Thoughts**: Frustrated a bit of codepen ajax request situation, but hopefully I will fix it tomorrow. Really looking forward to claim front end certificate and start learning React.js!!!
+
+**Link(s) to work**
+1. [Wikipedia viewer app](https://github.com/vza100/Wikipedia-viewer-app)

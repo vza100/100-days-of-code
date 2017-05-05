@@ -73,3 +73,14 @@
 **Today's Progress**: Still working on weather app. Codepen does not want to receive my APi request... Also rewinding previous Javascript30 videos to learn JS scripting in depth. Watched a few "Javascript Understanding the weird parts" tutorials.
 
 **Thoughts**: Second day trying to figure out how to put APi in codepen... Hopefully tomorrow I will be finished with weather app. A little bit frustrated but still motivation hasn't gone anywhere!
+
+
+### Day 9: May 4, Thursday
+
+**Today's Progress**: Today I finally finished my weather app. Decided not to bother and ignore the fact that codepen.io does not allow me to get JSON requests. Did couple of algorithm scripting exercises on freeCodeCamp course and watched an interesting Javascript30 tutorial on how to fetch data from APi and display live the suggestions while typing.
+
+**Thoughts**: A little bit frustrated that uploading my project does not succeed properly, but still who is going to use codepen in real situations? Still motivated and striving to get that front End Certificate!
+
+**Link(s) to work**
+1. [Local weather App](https://github.com/vza100/Weather-App)
+2. [Javascript30 by #6 tutorial](https://github.com/vza100/Javascript30-projects/tree/master/06%20-%20Type%20Ahead)
