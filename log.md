@@ -94,3 +94,15 @@
 
 **Link(s) to work**
 1. [Wikipedia viewer app](https://github.com/vza100/Wikipedia-viewer-app)
+
+
+### Day 11: May 6, Saturday
+
+**Today's Progress**: Yes! I finally did it! Today I made my Wikipedia viewer app compatable with codepen and it does not block my ajax requests! Well I keep moving on with medium algorithm scripting on freeCodeCamp also today I have been practicing Arrays in Javascript by doing Javascript30 exercise. Learned how to properly use arrow function and .some(), .every() functions. What is more, I decided to finally start learning design which will lead me to finally starting React. I started Wes Bos course on flex box, which in my opinion will help me with responsive design a lot.
+
+**Thoughts**: Happy about Wikipedia viewer app. Such a relief to be done with it. Deliberately looking forward to do more project and to become better web developer!
+
+**Link(s) to work**
+1. [Wikipedia viewer app](https://github.com/vza100/Wikipedia-viewer-app)
+1. [Array Cardio/ JS30](https://github.com/vza100/Javascript30-projects/tree/master/07%20-%20Array%20Cardio%20Day%202)
+1. [Flexbox Sandbox](https://github.com/vza100/What-The-Flexbox/tree/master/autoprefixer)
