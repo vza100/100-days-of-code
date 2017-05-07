@@ -106,3 +106,9 @@
 1. [Wikipedia viewer app](https://github.com/vza100/Wikipedia-viewer-app)
 1. [Array Cardio/ JS30](https://github.com/vza100/Javascript30-projects/tree/master/07%20-%20Array%20Cardio%20Day%202)
 1. [Flexbox Sandbox](https://github.com/vza100/What-The-Flexbox/tree/master/autoprefixer)
+
+### Day 12: May 7, Sunday
+
+**Today's Progress**: Continuing with algorithm scripting. Very little left till I start freeCodeCamp's advanced algorithms. Watching Wes Bos tutorial on flexbox and planing to build my twitch APi app with its help.
+
+**Thoughts**: It's Saturday so the most part of the day I spent relaxing. Haven't done much but still learned a lot usefull stuff and will seek for more in the future! Feeling motivated to start designing webs with this powerfull tool flexbox.
