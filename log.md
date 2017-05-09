@@ -123,3 +123,9 @@
 **Link(s) to work**
 1. [Canvas app for Painting](https://github.com/vza100/Javascript30-projects/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas)
 
+
+### Day 14: May 9, Tuesday
+
+**Today's Progress**: On free time watched couple of "Javascript understanding the weird parts" tutorials about basic, but often missunderstood concepts of JS, really one to understand theory in depth without any gaps. Moving forward with freeCodeCamp's course, already in the middle of Wes Bos tutorial on flexbox and finally started building Twitch APi app by using flexbox.
+
+**Thoughts**: I really like how flexbox works, at the beggining it seemed strange but when I started handling it a bit better it is really simple and much more convenient comparing with other styling posibilities. Really motivated to continue on this project tomorrow!

@@ -104,11 +104,22 @@
 
 **Link(s) to work**
 1. [Wikipedia viewer app](https://github.com/vza100/Wikipedia-viewer-app)
-1. [Array Cardio/ JS30](https://github.com/vza100/Javascript30-projects/tree/master/07%20-%20Array%20Cardio%20Day%202)
-1. [Flexbox Sandbox](https://github.com/vza100/What-The-Flexbox/tree/master/autoprefixer)
+2. [Array Cardio/ JS30](https://github.com/vza100/Javascript30-projects/tree/master/07%20-%20Array%20Cardio%20Day%202)
+3. [Flexbox Sandbox](https://github.com/vza100/What-The-Flexbox/tree/master/autoprefixer)
 
 ### Day 12: May 7, Sunday
 
 **Today's Progress**: Continuing with algorithm scripting. Very little left till I start freeCodeCamp's advanced algorithms. Watching Wes Bos tutorial on flexbox and planing to build my twitch APi app with its help.
 
 **Thoughts**: It's Saturday so the most part of the day I spent relaxing. Haven't done much but still learned a lot usefull stuff and will seek for more in the future! Feeling motivated to start designing webs with this powerfull tool flexbox.
+
+
+### Day 13: May 8, Monday
+
+**Today's Progress**: Busy day today, but still done plenty of interesting things. Firstly, I did couple of algorithm scripting exercise on freeCodeCamp. Secondly, watched a lot of "Javascript understanding the weird parts" tutorial course today. Also build an interesting paint like app by watching Javascript30 tutorial on canvas.
+
+**Thoughts**: It's such a reflief when you come home after a stressful work day and coding is the only thing that matters, which helps me to escape from other problems. Really enjoyed today's coding session and hopefully tomorrow will start building Twitch APi app using flexbox!
+
+**Link(s) to work**
+1. [Canvas app for Painting](https://github.com/vza100/Javascript30-projects/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas)
+
