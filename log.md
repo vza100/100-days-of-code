@@ -129,3 +129,10 @@
 **Today's Progress**: On free time watched couple of "Javascript understanding the weird parts" tutorials about basic, but often missunderstood concepts of JS, really one to understand theory in depth without any gaps. Moving forward with freeCodeCamp's course, already in the middle of Wes Bos tutorial on flexbox and finally started building Twitch APi app by using flexbox.
 
 **Thoughts**: I really like how flexbox works, at the beggining it seemed strange but when I started handling it a bit better it is really simple and much more convenient comparing with other styling posibilities. Really motivated to continue on this project tomorrow!
+
+
+### Day 15: May 10, Wednesday
+
+**Today's Progress**: A lot of freeCodeCamps algorithm scripting, trying to get it done. Also making a design for Twitch APi app.
+
+**Thoughts**: Struggling with motivation today, more like of a personal thing, but still coding. HAppy to have something in order to get away from daily problems. Will strive to work on coding much more tomorrow!
