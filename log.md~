@@ -135,4 +135,11 @@
 
 **Today's Progress**: A lot of freeCodeCamps algorithm scripting, trying to get it done. Also making a design for Twitch APi app.
 
-**Thoughts**: Struggling with motivation today, more like of a personal thing, but still coding. HAppy to have something in order to get away from daily problems. Will strive to work on coding much more tomorrow!
+**Thoughts**: Struggling with motivation today, more like of a personal thing, but still coding. Happy to have something in order to get away from daily problems. Will strive to work on coding much more tomorrow!
+
+
+### Day 16: May 11, Thursday
+
+**Today's Progress**: Getting done mid level algorithm scripting, a little of it left for tomorrow. Also building Twitch APi app, trying to align content in scrollable div with flexbox.
+
+**Thoughts**: Getting a little bit frustrated beacuse flex box do not listen me and it is a struggle to make scrollable div in Twitch app. Finishing today's work and hopping to start everything from the fresh mind tomorrow.

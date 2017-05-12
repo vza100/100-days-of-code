@@ -143,3 +143,10 @@
 **Today's Progress**: Getting done mid level algorithm scripting, a little of it left for tomorrow. Also building Twitch APi app, trying to align content in scrollable div with flexbox.
 
 **Thoughts**: Getting a little bit frustrated beacuse flex box do not listen me and it is a struggle to make scrollable div in Twitch app. Finishing today's work and hopping to start everything from the fresh mind tomorrow.
+
+
+### Day 17: May 12, Friday
+
+**Today's Progress**: Finished mid level Algorithm scripting and finally made scrollable content manu with flexbox for my Twitch APi app.
+
+**Thoughts**: Struggling with motivation, need to finish freeCodeCamp's front End course ASAP and move on to React. Work work work!
