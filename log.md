@@ -157,3 +157,12 @@
 **Today's Progress**: Finally winished with Twitch APi app by making suitable UI and responsive design.
 
 **Thoughts**: Pretty happy with the result. Only Advanced algortihms and Advanced project to finish front End Course!
+
+**Link(s) to work**
+1. [Twitch APi app](https://github.com/vza100/Twitch-APi-App)
+
+### Day 19: May 14, Sunday
+
+**Today's Progress**: Busy day today, so I stick with advanced algorithm scripting and watching "JavaScript - Understanding the Weird Parts" tutorials.
+
+**Thoughts**: Getting busy in school as the exams come closer. Really trying to push every free minute that i have to coding. Tomorrow loking forward to start another project.
