@@ -150,3 +150,10 @@
 **Today's Progress**: Finished mid level Algorithm scripting and finally made scrollable content manu with flexbox for my Twitch APi app.
 
 **Thoughts**: Struggling with motivation, need to finish freeCodeCamp's front End course ASAP and move on to React. Work work work!
+
+
+### Day 18: May 13, Saturday
+
+**Today's Progress**: Finally winished with Twitch APi app by making suitable UI and responsive design.
+
+**Thoughts**: Pretty happy with the result. Only Advanced algortihms and Advanced project to finish front End Course!
