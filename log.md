@@ -166,3 +166,10 @@
 **Today's Progress**: Busy day today, so I stick with advanced algorithm scripting and watching "JavaScript - Understanding the Weird Parts" tutorials.
 
 **Thoughts**: Getting busy in school as the exams come closer. Really trying to push every free minute that i have to coding. Tomorrow loking forward to start another project.
+
+
+### Day 20: May 15, Monday
+
+**Today's Progress**: Algorithm scripting on freeCodeCamp and watching Javascript30 tutorial on handy dev tools posibilities.
+
+**Thoughts**: Struggling with motivation today, but still watching a lot of tutorials on free time and hopefully tomorrow i will start building a Calculator app.
