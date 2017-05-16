@@ -173,3 +173,9 @@
 **Today's Progress**: Algorithm scripting on freeCodeCamp and watching Javascript30 tutorial on handy dev tools posibilities.
 
 **Thoughts**: Struggling with motivation today, but still watching a lot of tutorials on free time and hopefully tomorrow i will start building a Calculator app.
+
+### Day 21: May 16, Tuesday
+
+**Today's Progress**: Watching in depth tutorials "JavaScript - Understanding the Weird Parts" and advanced algorithm scripting.
+
+**Thoughts**: Very little time today so haven't done a lot, still learned something new. Tomorrow will start building Calculator app.
