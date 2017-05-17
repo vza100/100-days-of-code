@@ -179,3 +179,10 @@
 **Today's Progress**: Watching in depth tutorials "JavaScript - Understanding the Weird Parts" and advanced algorithm scripting.
 
 **Thoughts**: Very little time today so haven't done a lot, still learned something new. Tomorrow will start building Calculator app.
+
+
+### Day 22: May 17, Wednesday
+
+**Today's Progress**: Today I have done an algorithm on permutation of string and distinguishing the unique without repetetive chars. The harder these algorithms are the longer it takes to do them. This one took me 1 hour exactly.
+
+**Thoughts**: Advanced level algorithms requires time and focus. Only a few left. Ending front end course soon!
