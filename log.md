@@ -186,3 +186,10 @@
 **Today's Progress**: Today I have done an algorithm on permutation of string and distinguishing the unique without repetetive chars. The harder these algorithms are the longer it takes to do them. This one took me 1 hour exactly.
 
 **Thoughts**: Advanced level algorithms requires time and focus. Only a few left. Ending front end course soon!
+
+
+### Day 23: May 18, Thursday
+
+**Today's Progress**: Working on Cash reciever algorith. Took me 2 hours to finish it. Learned new stuff about formatting decimals in JS. Also watched a couple of "JavaScript - Understanding the Weird Parts" tutorials on .bind(), .apply() and 'this' usage.
+
+**Thoughts**: Feeling productive today. Cash algorithm took me some time to finish but happy that I could handle it. Tomorrow I will have more time so hopefully I will spend it on making Calculator app.
