@@ -193,3 +193,9 @@
 **Today's Progress**: Working on Cash reciever algorith. Took me 2 hours to finish it. Learned new stuff about formatting decimals in JS. Also watched a couple of "JavaScript - Understanding the Weird Parts" tutorials on .bind(), .apply() and 'this' usage.
 
 **Thoughts**: Feeling productive today. Cash algorithm took me some time to finish but happy that I could handle it. Tomorrow I will have more time so hopefully I will spend it on making Calculator app.
+
+### Day 24: May 19, Friday
+
+**Today's Progress**: Finished Inventory algorithm scripting, took me some time to understand how to store arrays in array alphabetically. Also started building Calculator app layout with flexbox.
+
+**Thoughts**: Today's algorithm was much easier than previous one. Feeling positive and productive and quite happy with today's progress.
